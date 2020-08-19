@@ -24,6 +24,6 @@ namespace WebAppExemple.Model
         /// <summary>
         /// Société
         /// </summary>
-        public string Societe { get; set; }
+        public string Profession { get; set; }
     }
 }
